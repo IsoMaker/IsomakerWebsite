@@ -16,9 +16,12 @@ const currentYear = ref(new Date().getFullYear());
         </div>
         
         <div class="flex space-x-4 mb-4 md:mb-0">
-          <a href="#" class="hover:text-accentPrimary transition-colors">Twitter</a>
           <a href="#" class="hover:text-accentPrimary transition-colors">GitHub</a>
           <a href="#" class="hover:text-accentPrimary transition-colors">Discord</a>
+          <a href="#" class="hover:text-accentPrimary transition-colors">Itch.io</a>
+          <a href="#" class="hover:text-accentPrimary transition-colors">Bluesky</a>
+          <a href="#" class="hover:text-accentPrimary transition-colors">Mastodon</a>
+          
         </div>
         
         <div class="text-sm">

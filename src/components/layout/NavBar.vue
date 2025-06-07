@@ -9,14 +9,14 @@ const navLinks = [
 </script>
 
 <template>
-  <nav class="bg-primary text-textPrimary py-4 px-6 shadow-md">
+  <nav class="bg-secondary text-textPrimary py-4 px-6 shadow-md">
     <div class="container mx-auto flex justify-between items-center">
       <router-link to="/" class="text-2xl font-display font-bold flex items-center gap-2">
         <span class="text-accentPrimary">Iso</span><span>Maker</span>
       </router-link>
       
       <div class="hidden md:flex space-x-6">
-        <router-link 
+        <router-link
           v-for="link in navLinks" 
           :key="link.path" 
           :to="link.path"

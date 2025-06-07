@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto px-6 py-12">
-    <h1 class="text-3xl md:text-4xl font-display font-bold text-primary mb-8 text-center">Support IsoMaker</h1>
-    <p class="text-center text-textSecondary mb-12">Your support helps us continue development</p>
+    <h1 class="text-4xl md:text-6xl font-display font-bold text-textDark hover:text-accentPrimary mb-6 transition-all duration-700 text-center">Support IsoMaker</h1>
+    <p class="text-center text-textSecondary text-xl mb-12">Your support helps us continue development</p>
     
     <div class="max-w-2xl mx-auto bg-white p-8 rounded-xl shadow-soft text-center">
       <p class="mb-8 text-lg">IsoMaker is free and open source. If you love using our engine, please consider supporting us.</p>
