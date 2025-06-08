@@ -54,7 +54,7 @@ const navigateToFeedback = () => {
       >
         <h2 class="text-4xl md:text-6xl font-display font-bold text-textDark mb-6 leading-tight">
           Ready to Build Your 
-          <span class="text-transparent bg-gradient-isometric bg-clip-text">
+          <span class="text-4xl md:text-6xl font-display font-bold text-textDark mb-6 leading-tight">
             Isometric Universe?
           </span>
         </h2>
